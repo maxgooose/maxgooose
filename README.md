@@ -23,15 +23,6 @@ and refurbish electronics in NYC by day.
 
 [**Hand-tracking AR Tetris**](https://github.com/maxgooose/hand-tracking-ar) you play in the air&nbsp; ·&nbsp; comfort robots that read emotion from your voice&nbsp; ·&nbsp; cross-polarized device-grading vision rigs&nbsp; ·&nbsp; ADB automation for the boring stuff
 
-## 📊 By the numbers
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=maxgooose&show_icons=true&hide_border=true&bg_color=0B1F3A&title_color=C9A227&icon_color=C9A227&text_color=E6E6E6&hide=contribs" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxgooose&layout=compact&hide_border=true&bg_color=0B1F3A&title_color=C9A227&text_color=E6E6E6&langs_count=8" />
-
-</div>
-
 ## 📫 Elsewhere
 
 [![Nawartu](https://img.shields.io/badge/Nawartu-C9A227?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nawartu.com)
