@@ -21,20 +21,7 @@ and refurbish electronics in NYC by day.
 
 ## 🔬 Also tinkering
 
-Comfort robots that read emotion from your voice&nbsp; ·&nbsp; hand-tracking AR&nbsp; ·&nbsp; cross-polarized device-grading vision rigs&nbsp; ·&nbsp; ADB automation for the boring stuff
-
-## 🧰 Stack
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+[**Hand-tracking AR Tetris**](https://github.com/maxgooose/hand-tracking-ar) you play in the air&nbsp; ·&nbsp; comfort robots that read emotion from your voice&nbsp; ·&nbsp; cross-polarized device-grading vision rigs&nbsp; ·&nbsp; ADB automation for the boring stuff
 
 ## 📊 By the numbers
 
