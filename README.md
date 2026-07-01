@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=32&duration=3500&pause=900&color=C9A227&center=true&vCenter=true&width=720&height=70&lines=Verso+le+Nuvole+%E2%98%81%EF%B8%8F;Syrian-American+founder+%C2%B7+NYC;Building+for+the+Levant;Damascus+%E2%86%94+New+York" alt="Harb" />
+# Harb
 
-**Founder · Builder · New York**
+**« Verso le Nuvole »** ☁️ &nbsp;·&nbsp; Founder · Builder · New York
 
 I build software and businesses that connect **Syria & the Levant** to the world —
 and refurbish electronics in NYC by day.
