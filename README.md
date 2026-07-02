@@ -4,8 +4,8 @@
 
 **« Verso le Nuvole »** ☁️ &nbsp;·&nbsp; founder · builder · NYC
 
-I build software and businesses that connect **Syria & the Levant** to the world —
-and the media that launches them.
+I build products **end to end** — the code, the launch,
+and the media that gets them seen.
 
 </div>
 
