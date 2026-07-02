@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Harb — builder from Syria, based in New York City">
+  <rect x="1" y="1" width="1198" height="278" rx="18" fill="#0e0b0b" stroke="#2a1f1d" stroke-width="2"/>
+
+  <!-- khatam — eight-point star, Damascus mother-of-pearl motif (static seal) -->
+  <g transform="translate(1010 140)" stroke="#b23b34" fill="none">
+    <g opacity="0.35">
+      <rect x="-78" y="-78" width="156" height="156" stroke-width="1.5"/>
+      <rect x="-78" y="-78" width="156" height="156" stroke-width="1.5" transform="rotate(45)"/>
+    </g>
+    <g opacity="0.6">
+      <rect x="-46" y="-46" width="92" height="92" stroke-width="1.2"/>
+      <rect x="-46" y="-46" width="92" height="92" stroke-width="1.2" transform="rotate(45)"/>
+    </g>
+    <circle r="14" stroke-width="1" opacity="0.55"/>
+    <circle r="4.5" fill="#b23b34" stroke="none" opacity="0.9"/>
+  </g>
+
+  <text x="62" y="72" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="26" fill="#d0655e">أهلًا وسهلًا</text>
+
+  <text x="58" y="152" font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="84" font-weight="800" letter-spacing="6" fill="#d0473f">Harb</text>
+
+  <g font-family="'Segoe UI', system-ui, -apple-system, sans-serif" font-size="23" fill="#ece5da">
+    <text x="62" y="196">founder — nested.social &#183; nawartu.com</text>
+    <text x="62" y="228">tech lead — Universal Cellular NYC</text>
+  </g>
+
+  <text x="62" y="258" font-family="Consolas, 'Cascadia Code', monospace" font-size="15" fill="#9a8f85">SYR &#9992; NYC &#183; verso le nuvole &#9729;</text>
+</svg>
