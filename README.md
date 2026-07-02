@@ -31,8 +31,4 @@ Tech lead at **[Universal Cellular NYC](https://universalcellularnyc.com)** — 
 
 ---
 
-**Reach for:** TypeScript · React / Vite · React Native (Expo) · Supabase / Postgres · Node · Python · local LLMs · and honest VBA when the job calls for it.
-
-A lot of the interesting work lives in private repos and live products — the links are the proof; ask me about the rest.
-
 <div align="center"><sub>نوّرتوا — you lit the place up by stopping by. &nbsp;·&nbsp; <i>« verso le nuvole »</i></sub></div>
