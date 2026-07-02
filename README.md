@@ -29,6 +29,8 @@ Tech lead at **[Universal Cellular NYC](https://universalcellularnyc.com)** — 
 
 🤖 [orb](https://github.com/maxgooose/orb) — a rolling comfort robot that reads the emotion in your voice and answers with movement and light.
 
+✈️ 20+ countries so far — travel is half the reason Nawartu exists.
+
 ---
 
 **Reach for:** TypeScript · React / Vite · React Native (Expo) · Supabase / Postgres · Node · Python · local LLMs · and honest VBA when the job calls for it.
