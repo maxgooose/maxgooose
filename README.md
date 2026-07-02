@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Harb — builder from Syria, based in New York. Founder of Nested and Nawartu, tech lead at Universal Cellular NYC." width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header2-dark.svg">
+  <img src="assets/header2-light.svg" alt="Harb — builder from Syria, based in New York. Founder of Nested and Nawartu, tech lead at Universal Cellular NYC." width="100%">
 </picture>
 
 I'm Harb — from Syria, building in New York. I ship the **whole thing**: the product, the code, the launch, and the media push that gets it in front of people.
