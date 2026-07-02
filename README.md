@@ -1,0 +1,38 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img src="assets/banner-light.svg" alt="Harb — builder from Syria, based in New York. Founder of Nested and Nawartu, tech lead at Universal Cellular NYC." width="100%">
+</picture>
+
+I'm Harb — from Syria, building in New York. I ship the **whole thing**: the product, the code, the launch, and the media push that gets it in front of people.
+
+## Building now
+
+🪺 **[Nested](https://nested.social)** — student-only project network for NYC universities: post what you're building, find teammates, catch campus events. Live and in soft launch. React + Vite + Supabase → [nestednyc/nested-nyc](https://github.com/nestednyc/nested-nyc)
+
+🏮 **[Nawartu](https://nawartu.com)** — *"the easiest way to book authentic stays across the Levant."* A booking marketplace for Syria and the region: web platform, native app (Expo + Supabase), host tooling — plus the launch campaign I ran that took its media to an 8K reach and brought in the first listings. The name means *"you lit the place up."* → [@nawartuofficial](https://instagram.com/nawartuofficial)
+
+## The day job
+
+Tech lead at **[Universal Cellular NYC](https://universalcellularnyc.com)** — a phone wholesale & refurb operation whose internal platform I built end to end:
+
+- **Inventory & operations automation** — from Excel/VBA ([Blueberry](https://github.com/maxgooose/Blueberry)) to Android fleet automation over ADB ([Automating-White-Collar-Work](https://github.com/maxgooose/Automating-White-Collar-Work)) to executive dashboards and an internal HR portal
+- **RMA, rebuilt** — redesigned the returns pipeline around a locally-deployed AI that works the queue
+- **[grading-station-mvp](https://github.com/maxgooose/grading-station-mvp)** — prototype rig for automated device cosmetic grading: sandwich-flip mechanism, cross-polarized capture, AI classification. Didn't ship — taught me hardware humility.
+
+## Roots
+
+🧩 **[Syrian Mosaic Foundation](https://syrianmosaicfoundation.org)** — nonprofit preserving Syrian heritage and rebuilding community. I built their site and run their media campaigns, end to end.
+
+## Off hours
+
+🖐️ [hand-tracking-ar](https://github.com/maxgooose/hand-tracking-ar) — Tetris you play in the air, no controller.
+
+🤖 [orb](https://github.com/maxgooose/orb) — a rolling comfort robot that reads the emotion in your voice and answers with movement and light.
+
+---
+
+**Reach for:** TypeScript · React / Vite · React Native (Expo) · Supabase / Postgres · Node · Python · local LLMs · and honest VBA when the job calls for it.
+
+A lot of the interesting work lives in private repos and live products — the links are the proof; ask me about the rest.
+
+<div align="center"><sub>نوّرتوا — you lit the place up by stopping by. &nbsp;·&nbsp; <i>« verso le nuvole »</i></sub></div>
