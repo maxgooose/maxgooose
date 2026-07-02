@@ -27,8 +27,6 @@ Tech lead at **[Universal Cellular NYC](https://universalcellularnyc.com)** — 
 
 🖐️ [hand-tracking-ar](https://github.com/maxgooose/hand-tracking-ar) — Tetris you play in the air, no controller.
 
-🤖 [orb](https://github.com/maxgooose/orb) — a rolling comfort robot that reads the emotion in your voice and answers with movement and light.
-
 ✈️ 20+ countries so far — travel is half the reason Nawartu exists.
 
 ---
