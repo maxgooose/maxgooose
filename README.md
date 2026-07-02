@@ -7,7 +7,7 @@ I'm Harb — from Syria, building in New York. I ship the **whole thing**: the p
 
 ## Building now
 
-🪺 **[Nested](https://nested.social)** — student-only project network for NYC universities: post what you're building, find teammates, catch campus events. Live and in soft launch. React + Vite + Supabase → [nestednyc/nested-nyc](https://github.com/nestednyc/nested-nyc)
+🪺 **[Nested](https://nested.social)** — student-only project network for NYC universities: post what you're building, find teammates, catch campus events. Live and in soft launch. React + Vite + Supabase → [nestednyc/nested-nyc](https://github.com/nestednyc/nested-nyc) · [@nestedsocial](https://instagram.com/nestedsocial)
 
 🏮 **[Nawartu](https://nawartu.com)** — *"the easiest way to book authentic stays across the Levant."* A booking marketplace for Syria and the region: web platform, native app (Expo + Supabase), host tooling — plus the launch campaign I ran that took its media to an 8K reach and brought in the first listings. The name means *"you lit the place up."* → [@nawartuofficial](https://instagram.com/nawartuofficial)
 
@@ -21,7 +21,7 @@ Tech lead at **[Universal Cellular NYC](https://universalcellularnyc.com)** — 
 
 ## Roots
 
-🧩 **[Syrian Mosaic Foundation](https://syrianmosaicfoundation.org)** — nonprofit preserving Syrian heritage and rebuilding community. I built their site and run their media campaigns, end to end.
+🧩 **[Syrian Mosaic Foundation](https://syrianmosaicfoundation.org)** — nonprofit preserving Syrian heritage and rebuilding community. I built their site and run their media campaigns, end to end. → [@SyrianMosaicFoundation](https://instagram.com/SyrianMosaicFoundation)
 
 ## Off hours
 
