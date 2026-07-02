@@ -1,34 +1,34 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header2-dark.svg">
-  <img src="assets/header2-light.svg" alt="Harb — builder from Syria, based in New York. Founder of Nested and Nawartu, tech lead at Universal Cellular NYC." width="100%">
-</picture>
+<div align="center">
 
-I'm Harb — from Syria, building in New York. I ship the **whole thing**: the product, the code, the launch, and the media push that gets it in front of people.
+# Harb
 
-## Building now
+**« Verso le Nuvole »** ☁️ &nbsp;·&nbsp; founder · builder · NYC
 
-🪺 **[Nested](https://nested.social)** — student-only project network for NYC universities: post what you're building, find teammates, catch campus events. Live and in soft launch. React + Vite + Supabase → [nestednyc/nested-nyc](https://github.com/nestednyc/nested-nyc) · [@nestedsocial](https://instagram.com/nestedsocial)
+I build software and businesses that connect **Syria & the Levant** to the world —
+and the media that launches them.
 
-🏮 **[Nawartu](https://nawartu.com)** — *"the easiest way to book authentic stays across the Levant."* A booking marketplace for Syria and the region: web platform, native app (Expo + Supabase), host tooling — plus the launch campaign I ran that took its media to an 8K reach and brought in the first listings. The name means *"you lit the place up."* → [@nawartuofficial](https://instagram.com/nawartuofficial)
-
-## The day job
-
-Tech lead at **[Universal Cellular NYC](https://universalcellularnyc.com)** — a phone wholesale & refurb operation whose internal platform I built end to end:
-
-- **Inventory & operations automation** — from Excel/VBA ([Blueberry](https://github.com/maxgooose/Blueberry)) to Android fleet automation over ADB ([Automating-White-Collar-Work](https://github.com/maxgooose/Automating-White-Collar-Work)) to executive dashboards and an internal HR portal
-- **RMA, rebuilt** — redesigned the returns pipeline around a locally-deployed AI that works the queue
-- **[grading-station-mvp](https://github.com/maxgooose/grading-station-mvp)** — prototype rig for automated device cosmetic grading: sandwich-flip mechanism, cross-polarized capture, AI classification. Didn't ship — taught me hardware humility.
-
-## Roots
-
-🧩 **[Syrian Mosaic Foundation](https://syrianmosaicfoundation.org)** — nonprofit preserving Syrian heritage and rebuilding community. I built their site and run their media campaigns, end to end. → [@SyrianMosaicFoundation](https://instagram.com/SyrianMosaicFoundation)
-
-## Off hours
-
-🖐️ [hand-tracking-ar](https://github.com/maxgooose/hand-tracking-ar) — Tetris you play in the air, no controller.
-
-✈️ 20+ countries so far — travel is half the reason Nawartu exists.
+</div>
 
 ---
 
-<div align="center"><sub>نوّرتوا — you lit the place up by stopping by. &nbsp;·&nbsp; <i>« verso le nuvole »</i></sub></div>
+## Building now
+
+🪺 **[Nested](https://nested.social)** — project network for NYC students: post what you're building, find teammates. Live in soft launch. → [repo](https://github.com/nestednyc/nested-nyc) · [@nestedsocial](https://instagram.com/nestedsocial)
+
+🏮 **[Nawartu](https://nawartu.com)** — *"you lit the place up."* Book authentic stays across the Levant. I built the platform and ran the launch. → [@nawartuofficial](https://instagram.com/nawartuofficial)
+
+## Day job
+
+Tech lead @ **[Universal Cellular NYC](https://universalcellularnyc.com)** — built the internal platform end to end: inventory & [Android fleet automation](https://github.com/maxgooose/Automating-White-Collar-Work), an RMA pipeline rebuilt around a locally-deployed AI, and an automated [device-grading rig](https://github.com/maxgooose/grading-station-mvp).
+
+## Roots
+
+🧩 **[Syrian Mosaic Foundation](https://syrianmosaicfoundation.org)** — their site + media campaigns, end to end. → [@SyrianMosaicFoundation](https://instagram.com/SyrianMosaicFoundation)
+
+## Off hours
+
+🖐️ [Tetris you play in the air](https://github.com/maxgooose/hand-tracking-ar) &nbsp;·&nbsp; ✈️ 20+ countries and counting
+
+---
+
+<div align="center"><sub>نوّرتوا — you lit the place up by stopping by.</sub></div>
