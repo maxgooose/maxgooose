@@ -22,11 +22,11 @@ Tech lead @ **[Universal Cellular NYC](https://universalcellularnyc.com)** — b
 
 ## Roots
 
-🧩 **[Syrian Mosaic Foundation](https://syrianmosaicfoundation.org)** — their site + media campaigns, end to end. → [@SyrianMosaicFoundation](https://instagram.com/SyrianMosaicFoundation)
+🧩 **[Syrian Mosaic Foundation](https://syrianmosaicfoundation.org)** — website + media campaigns. → [@SyrianMosaicFoundation](https://instagram.com/SyrianMosaicFoundation)
 
 ## Off hours
 
-🖐️ [Tetris you play in the air](https://github.com/maxgooose/hand-tracking-ar) &nbsp;·&nbsp; ✈️ 20+ countries and counting
+🖐️ [Tetris you play in the air](https://github.com/maxgooose/hand-tracking-ar) &nbsp;·&nbsp; ✈️ 20+ countries and counting, i love travelling more than anything.
 
 ---
 
