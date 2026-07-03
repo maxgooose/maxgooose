@@ -5,8 +5,7 @@
 **« Verso le Nuvole »** ☁️ &nbsp;·&nbsp; founder · builder · NYC
 
 I build products **end to end** — the code, the launch,
-and the media that gets them seen.
-
+and the marketing.
 </div>
 
 ---
@@ -15,7 +14,7 @@ and the media that gets them seen.
 
 🪺 **[Nested](https://nested.social)** — project network for NYC students: post what you're building, find teammates. Live in soft launch. → [repo](https://github.com/nestednyc/nested-nyc) · [@nestedsocial](https://instagram.com/nestedsocial)
 
-🏮 **[Nawartu](https://nawartu.com)** — *"you lit the place up."* Book authentic stays across the Levant. I built the platform and ran the launch. → [@nawartuofficial](https://instagram.com/nawartuofficial)
+🏮 **[Nawartu](https://nawartu.com)** — *"you lit the place up."* Book authentic stays across the Levant. Great media and concept introduction to the levant region. → [@nawartuofficial](https://instagram.com/nawartuofficial)
 
 ## Day job
 
