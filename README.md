@@ -21,7 +21,7 @@ and the marketing.
 → <a href="https://github.com/nestednyc/nested-nyc">repo</a> · <a href="https://instagram.com/nestedsocial">@nestedsocial</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://nawartu.com"><img src="assets/nawartu.jpg" alt="Nawartu — Discover the Levant, book authentic stays" /></a>
+<a href="https://nawartu.com"><img src="assets/nawartu-home.jpg" alt="Nawartu — Discover the Levant, book authentic stays" /></a>
 <br/><br/>
 🏮 <b><a href="https://nawartu.com">Nawartu</a></b> — <i>"you lit the place up."</i> Book authentic stays across the Levant: web platform, mobile app, and the media that introduces the region. 8.3k on <a href="https://instagram.com/nawartuofficial">Instagram</a> · <a href="https://tiktok.com/@nawartu">TikTok</a>
 </td>
