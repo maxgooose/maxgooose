@@ -53,7 +53,5 @@ Co-founder. Website in 6 languages, event sign-up API, and media campaigns for ~
 
 <br/>
 
-<div align="center">
-<sub>نوّرتوا</sub><br/>
-<sub>You lit the place up by stopping by.</sub>
-</div>
+<div align="center" dir="rtl"><sub>نوّرتوا</sub></div>
+<div align="center" dir="ltr"><sub>You lit the place up by stopping by.</sub></div>
